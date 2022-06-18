@@ -1,5 +1,4 @@
-- 
-![logo](./public/logo.png)
+![logo](./Images/logo.png)
 
 # **Gitwar - Compete with Github**
 
