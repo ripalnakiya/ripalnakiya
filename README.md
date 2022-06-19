@@ -20,7 +20,16 @@
 <p align="center">
   <a href="https://www.instagram.com/jets_5645/?hl=en"><img  width="48px" alt="Instagram" title="Instagram" src="./Images/instagram.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-
+  <a href="https://www.linkedin.com/in/ripal-nakiya-0a96a4203/"><img width="48px" alt="LinkedIN" title="LinkedIN" src="./Images/linkedin.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://facebook.com/ripalnakiya"><img width="48px" alt="Facebook" title="Facebook" src="./Images/facebook.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://twitter.com/RipalNakiya"><img width="48px" alt="Twitter" title="Twitter" src="./Images/twitter.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://github.com/ripalnakiya"><img width="48px" alt="Github" title="Github" src="./Images/github.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="mailto:ripalvnakiya5645@gmail.com"><img width="48px" alt="Gmail" title="Gmail" src="./Images/gmail.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
 <br/>
