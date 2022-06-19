@@ -30,6 +30,43 @@
   Technologies
 </h1>
 
+<p>
+  <a><img width="48px" alt="C" title="C" src="./Images/Technologies/c.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a><img width="48px" alt="C++" title="C++" src="./Images/Technologies/cpp.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a><img width="48px" alt="Python" title="Python" src="./Images/Technologies/python.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a><img width="48px" alt="Java" title="Java" src="./Images/Technologies/java.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a><img width="48px" alt="HTML5" title="HTML5" src="./Images/Technologies/html5.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a><img width="48px" alt="CSS3" title="CSS3" src="./Images/Technologies/css.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a><img width="48px" alt="SASS" title="SASS" src="./Images/Technologies/sass.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a><img width="48px" alt="Bootstrap" title="Bootstrap" src="./Images/Technologies/bootstrap.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a><img width="48px" alt="JavaScript" title="JavaScript" src="./Images/Technologies/javascript.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a><img width="48px" alt="Typescript" title="Typescript" src="./Images/Technologies/typescript.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a><img width="48px" alt="NodeJS" title="NodeJS" src="./Images/Technologies/nodejs.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a><img width="48px" alt="ReactJS" title="ReactJS" src="./Images/Technologies/react.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a><img width="48px" alt="VueJS" title="VueJS" src="./Images/Technologies/vuejs.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a><img width="48px" alt="Figma" title="Figma" src="./Images/Technologies/figma.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a><img width="48px" alt="MongoDB" title="MongoDB" src="./Images/Technologies/mongodb.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a><img width="48px" alt="Git" title="Git" src="./Images/Technologies/git.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a><img width="48px" alt="Markdown" title="Markdown" src="./Images/Technologies/markdown.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
+
 <br>
 
 <h1>
@@ -44,23 +81,21 @@
 <br>
 
 <h1> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="64"> Let's Connect </h1>
-<h3><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊
- </h3>
- 
+<h3>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊</h3>
  
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.instagram.com/jets_5645/?hl=en"><img  width="48px" alt="Instagram" title="Instagram" src="./Images/instagram.png"></a>
+  <a href="https://www.linkedin.com/in/ripal-nakiya-0a96a4203/"><img width="48px" alt="LinkedIN" title="LinkedIN" src="./Images/SocialMedia/linkedin.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/ripal-nakiya-0a96a4203/"><img width="48px" alt="LinkedIN" title="LinkedIN" src="./Images/linkedin.png"></a>
+  <a href="https://twitter.com/RipalNakiya"><img width="48px" alt="Twitter" title="Twitter" src="./Images/SocialMedia/twitter.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://facebook.com/ripalnakiya"><img width="48px" alt="Facebook" title="Facebook" src="./Images/facebook.png"></a>
+  <a href="https://facebook.com/ripalnakiya"><img width="48px" alt="Facebook" title="Facebook" src="./Images/SocialMedia/facebook.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://twitter.com/RipalNakiya"><img width="48px" alt="Twitter" title="Twitter" src="./Images/twitter.png"></a>
+  <a href="https://www.instagram.com/jets_5645/?hl=en"><img  width="48px" alt="Instagram" title="Instagram" src="./Images/SocialMedia/instagram.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://github.com/ripalnakiya"><img width="48px" alt="Github" title="Github" src="./Images/github.png"></a>
+  <a href="https://github.com/ripalnakiya"><img width="48px" alt="Github" title="Github" src="./Images/SocialMedia/github.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="mailto:ripalvnakiya5645@gmail.com"><img width="48px" alt="Gmail" title="Gmail" src="./Images/gmail.png"></a>
+  <a href="mailto:ripalvnakiya5645@gmail.com"><img width="48px" alt="Gmail" title="Gmail" src="./Images/SocialMedia/gmail.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
