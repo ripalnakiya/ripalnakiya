@@ -20,8 +20,12 @@
   Welcome to my profile ! I'm a student exploring the field of website development , part-time coder and full-time adventure seeker. Thanks for visiting! ✨
 </h3>
 
-### 🧐 More About Me:
-- 🚀
+### 🚀 More About Me:
+- 🎆 I'm very passionate about technology!
+- 🎯 Currently I'm learning Android development
+- 💡 Let's talk about human psychology
+- 🎮 Join me in Counter Strike and Chess
+- 🌟 Funfact : I think I'm fummy XD
 
 <br>
 
