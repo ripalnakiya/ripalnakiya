@@ -41,5 +41,8 @@
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
-   ![Visitor Count](https://profile-counter.glitch.me/ripalnakiya/count.svg)
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ripalnakiya/count.svg">
+</p>
+
 
