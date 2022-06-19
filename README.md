@@ -37,8 +37,8 @@
   Github Stats
 </h1>
 
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripalnakiya&theme=dark&show_icons=true"> </a>
 <a><img  src="https://github-readme-stats.vercel.app/api?username=ripalnakiya&theme=dark&show_icons=true&hide=issues"> </a>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripalnakiya&theme=dark&layout=compact"> </a>
 <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=ripalnakiya&repo=github-readme-stats"> -->
 
 <br>
