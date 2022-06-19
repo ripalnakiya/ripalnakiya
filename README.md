@@ -28,7 +28,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://github.com/ripalnakiya"><img width="48px" alt="Github" title="Github" src="./Images/github.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="mailto:ripalvnakiya5645@gmail.com"><img width="48px" alt="Gmail" title="Gmail" src="./Images/gmail.png"></a>
+    <a href="mailto:ripalvnakiya5645@gmail.com"><img width="48px" alt="Gmail" title="Gmail" src="./Images/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
