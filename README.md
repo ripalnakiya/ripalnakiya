@@ -25,7 +25,7 @@
 - 🎯 Currently I'm learning Android development
 - 💡 Let's talk about human psychology
 - 🎮 Join me in Counter Strike and Chess
-- 🌟 Funfact : I think I'm fummy XD
+- 🌟 Funfact : I think I'm funny XD
 
 <br>
 
