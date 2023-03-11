@@ -24,8 +24,7 @@
 - 🎆 I'm very passionate about technology!
 - 🎯 Currently I'm learning Android development
 - 💡 Let's talk about human psychology
-- 🎮 Join me in Counter Strike and Chess
-- 🌟 Funfact : I think I'm funny XD
+- 🎮 Join with me in Counter Strike and against in Chess
 
 <br>
 
