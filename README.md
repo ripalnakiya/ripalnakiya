@@ -22,9 +22,9 @@
 
 ### 🚀 More About Me:
 - 🎆 I'm very passionate about technology!
-- 🎯 Currently I'm learning Android development
-- 💡 Let's talk about human psychology
-- 🎮 Join with me in Counter Strike and against in Chess
+- 🎯 Currently I'm a student
+- 💡 Interested about Human Psychology
+- 🎮 I play Counter Strike and Chess a lot !
 
 <br>
 
