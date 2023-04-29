@@ -17,7 +17,7 @@
 </h1>
 
 <h3>
-  Welcome to my profile ! I'm a student exploring the field of website development , part-time coder and full-time adventure seeker. Thanks for visiting! ✨
+  Welcome to my profile ! I'm a student exploring the field of Machine Learning and Deep Learning , part-time coder and full-time adventure seeker. Thanks for visiting! ✨
 </h3>
 
 ### 🚀 More About Me:
