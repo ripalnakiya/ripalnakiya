@@ -7,7 +7,7 @@
 </p>
   
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?duration=4000&color=08D9D6&center=true&vCenter=true&lines=Web+developer%F0%9F%92%BB;Love+C%2B%2B+%26+Coffee%E2%98%95;Potterhead%E2%9A%A1">
+  <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sigmar&duration=4000&pause=1000&color=08D9D6&center=true&vCenter=true&width=435&lines=MERN+Stack+Development+%F0%9F%95%B8%EF%B8%8F;Machine+Learning+%F0%9F%A4%96;Love+C%2B%2B+and+Coffee+%E2%98%95">
   </p>
   
 <h1>
