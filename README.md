@@ -5,10 +5,10 @@
 <p align="center">
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 </p>
-  
+
 <p align="center">
   <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sigmar&duration=4000&pause=1000&color=08D9D6&center=true&vCenter=true&width=435&lines=MERN+Stack+Development+%F0%9F%95%B8%EF%B8%8F;Machine+Learning+%F0%9F%A4%96;Love+C%2B%2B+and+Coffee+%E2%98%95">
-  </p>
+ </p>
   
 <h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
