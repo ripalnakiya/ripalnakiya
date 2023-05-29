@@ -24,7 +24,7 @@
 - 🎆 I'm very passionate about technology!
 - 🎯 Currently I'm a student
 - 💡 Interested about Human Psychology
-- 🎮 I play Counter Strike and Chess a lot !
+- 🎮 I play <img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" /> and Chess a lot !
 
 <br>
 
@@ -35,50 +35,27 @@
 
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/Java-00ADD8?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="" />
-  <img src="" />
-  <img src="" />
-  <img src="" />
-  <img src="" />
-  <img src="" />
-  <a><img width="48px" alt="C" title="C" src="./Images/Technologies/c.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a><img width="48px" alt="C++" title="C++" src="./Images/Technologies/cpp.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a><img width="48px" alt="Python" title="Python" src="./Images/Technologies/python.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a><img width="48px" alt="Java" title="Java" src="./Images/Technologies/java.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a><img width="48px" alt="HTML5" title="HTML5" src="./Images/Technologies/html5.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a><img width="48px" alt="CSS3" title="CSS3" src="./Images/Technologies/css.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a><img width="48px" alt="SASS" title="SASS" src="./Images/Technologies/sass.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a><img width="48px" alt="Bootstrap" title="Bootstrap" src="./Images/Technologies/bootstrap.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a><img width="48px" alt="JavaScript" title="JavaScript" src="./Images/Technologies/javascript.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a><img width="48px" alt="Typescript" title="Typescript" src="./Images/Technologies/typescript.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a><img width="48px" alt="NodeJS" title="NodeJS" src="./Images/Technologies/nodejs.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a><img width="48px" alt="ReactJS" title="ReactJS" src="./Images/Technologies/react.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a><img width="48px" alt="VueJS" title="VueJS" src="./Images/Technologies/vuejs.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a><img width="48px" alt="Figma" title="Figma" src="./Images/Technologies/figma.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a><img width="48px" alt="MongoDB" title="MongoDB" src="./Images/Technologies/mongodb.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a><img width="48px" alt="Git" title="Git" src="./Images/Technologies/git.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a><img width="48px" alt="Markdown" title="Markdown" src="./Images/Technologies/markdown.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<!--   <img src="" /> -->
 </p>
 
 <br>
@@ -88,9 +65,9 @@
   Github Stats
 </h1>
 
-<a><img  src="https://github-readme-stats.vercel.app/api?username=ripalnakiya&theme=dark&show_icons=true&hide=issues"> </a>
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripalnakiya&theme=dark&layout=compact"> </a>
-<!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=ripalnakiya&repo=github-readme-stats"> -->
+<a><img src="https://github-readme-stats.vercel.app/api?username=ripalnakiya&show_icons=true&hide=issues"> </a>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripalnakiya"> </a>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ripalnakiya&repo=github-readme-stats">
 
 <br>
 
