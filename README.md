@@ -34,6 +34,7 @@
 </h1>
 
 <p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <a><img width="48px" alt="C" title="C" src="./Images/Technologies/c.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a><img width="48px" alt="C++" title="C++" src="./Images/Technologies/cpp.png"></a>
