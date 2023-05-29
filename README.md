@@ -65,9 +65,9 @@
   Github Stats
 </h1>
 
-<a><img src="https://github-readme-stats.vercel.app/api?username=ripalnakiya&show_icons=true&hide=issues"> </a>
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripalnakiya"> </a>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ripalnakiya&repo=github-readme-stats">
+<a><img src="https://github-readme-stats.vercel.app/api?username=ripalnakiya&show_icons=true&hide=issues&rank_icon=github"> </a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ripalnakiya&layout=donut)](https://github.com/ripalnakiya/github-readme-stats)
+<!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=ripalnakiya&repo=github-readme-stats"> -->
 
 <br>
 
