@@ -72,6 +72,15 @@
 
 <br>
 
+<h1>
+<img src="https://media.giphy.com/media/I9vZ4cFaR4b2cq9G39/giphy.gif" width="48">
+  LeetCode Stats
+</h1>
+
+[![Leetcode Stats](https://leetcode.card.workers.dev/ripalnakiya?theme=unicorn&font=baloo&extension=activity)](https://leetcode.com/ripalnakiya)
+
+<br>
+
 <h1> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="64"> Let's Connect </h1>
 <h3>I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊</h3>
  
