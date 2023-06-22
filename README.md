@@ -24,7 +24,7 @@
 - 🎆 I'm very passionate about technology!
 - 🎯 Currently I'm a student
 - 💡 Interested about Human Psychology
-- 🎮 I play <img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" /> and Chess a lot !
+- 🎮 I play <img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" /> and Chess !
 
 <br>
 
