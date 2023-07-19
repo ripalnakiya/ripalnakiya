@@ -114,12 +114,15 @@
  
 <p align="center"> Made with ❤️ in India </p>
 
+<br>
+
+<p align="center"> Profile Views: </p>
 <p align="center">
   <img src="https://profile-counter.glitch.me/ripalnakiya/count.svg">
 </p>
   
 <p align="center">
-        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Water" />
 </p>
 
 
