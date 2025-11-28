@@ -6,23 +6,10 @@
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 </p> -->
 
-<!-- <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Sigmar&duration=4000&pause=1000&color=08D9D6&center=true&vCenter=true&width=435&lines=MERN+Stack+Development+%F0%9F%95%B8%EF%B8%8F;Machine+Learning+%F0%9F%A4%96;Love+C%2B%2B+and+Coffee+%E2%98%95">
-</p> -->
-
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Mono+One&size=25&duration=4000&pause=1000&color=08D9D6&center=true&vCenter=true&random=false&width=500&height=70&lines=Android+Developer;MERN+Stack+Developement;Deep+Learning;Competitive+Programming" alt="Typing SVG" />
-</a>
-</p>
-  
-<h1>
   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-  Hey , I'm Ripal ! 
-</h1>
-
-<h3>
-  Welcome to my profile ! I'm a student exploring Android Development, part-time coder and full-time adventure seeker. Thanks for visiting! ✨
-</h3>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Mono+One&size=25&duration=4000&pause=1000&color=08D9D6&center=true&vCenter=true&random=false&width=500&height=70&lines=Android+Developer;MERN+Stack+Developement;Deep+Learning;Competitive+Programming" alt="Typing SVG" /></a>
+</p>
 
 <br>
 
@@ -64,43 +51,9 @@
   Github Stats
 </h1>
 
-<a><img src="https://github-readme-stats.vercel.app/api?username=ripalnakiya&show_icons=true&hide=issues&rank_icon=github"> </a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ripalnakiya&layout=donut)](https://github.com/ripalnakiya/github-readme-stats)
-<!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=ripalnakiya&repo=github-readme-stats"> -->
+<a><img src="https://github-readme-stats.vercel.app/api?username=ripalnakiya&show_icons=true&hide=issues&rank_icon=github"> </a>
 
-<!--
-<br>
-
-<h1>
-<img src="https://media.giphy.com/media/I9vZ4cFaR4b2cq9G39/giphy.gif" width="48">
-  LeetCode Stats
-</h1>
-
-[![Leetcode Stats](https://leetcode.card.workers.dev/ripalnakiya?theme=unicorn&font=baloo&extension=activity)](https://leetcode.com/ripalnakiya)
--->
-
-<br>
-
-<h1> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="64"> Let's Connect </h1>
-<h3>If you want to say hi, I'll be happy to connect! 😊</h3>
- 
-<!-- Social icons section -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/ripal-nakiya-0a96a4203/"><img width="48px" alt="LinkedIN" title="LinkedIN" src="./Images/SocialMedia/linkedin.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/RipalNakiya"><img width="48px" alt="Twitter" title="Twitter" src="./Images/SocialMedia/twitter.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://facebook.com/ripalnakiya"><img width="48px" alt="Facebook" title="Facebook" src="./Images/SocialMedia/facebook.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/jets_5645/?hl=en"><img  width="48px" alt="Instagram" title="Instagram" src="./Images/SocialMedia/instagram.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/ripalnakiya"><img width="48px" alt="Github" title="Github" src="./Images/SocialMedia/github.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:ripalvnakiya5645@gmail.com"><img width="48px" alt="Gmail" title="Gmail" src="./Images/SocialMedia/gmail.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
-
-<!--
 <br>
 
 <h1>
@@ -110,21 +63,7 @@
 
 <h3>If you like my projects, Give them ⭐ and Share it with friends!💙 </h3>
 <h3>Stay awesome!⚡️</h3>
--->
- 
-<br>
- 
-<p align="center"> Made with ❤️ in India </p>
 
-<br>
-
-<p align="center"> Profile Views: </p>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/ripalnakiya/count.svg">
-</p>
-  
 <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Water" />
 </p>
-
-
