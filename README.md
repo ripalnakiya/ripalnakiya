@@ -13,26 +13,30 @@
 
 <br>
 
+<!------------------------------------------------------------ SKILLS ---------------------------------------------------------------------------------->
+
 <h1>
 <img src="https://media.giphy.com/media/kDwMzy7iCHqLhvNj5D/giphy.gif" width="48">
-  Technologies
+  Skills
 </h1>
 
-<p>
+<div>
+    <!--   <img src="" /> -->
+  <div>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-
+  </div>
   <br>
-
+  <div>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
-
+  </div>
   <br>
-
+  <div>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -45,23 +49,22 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-
+  </div>
   <br>
-  
+  <div>
   <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" />
-
+  </div>
   <br>
-
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Jenkins-49728B?style=for-the-badge&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
-  
-<!--   <img src="" /> -->
-</p>
+</div>
 
 <br>
+
+<!------------------------------------------------------------ GITHUB STATS ---------------------------------------------------------------------------------->
 
 <h1>
 <img src="https://media.giphy.com/media/I9vZ4cFaR4b2cq9G39/giphy.gif" width="48">
@@ -73,6 +76,8 @@
 
 <br>
 
+<!------------------------------------------------------------ SUPPORT ---------------------------------------------------------------------------------->
+
 <h1>
   <img src="https://media.giphy.com/media/IgXrlyDjAZVJyEcP6f/giphy.gif" width="48">
   Support
@@ -80,6 +85,8 @@
 
 <h3>If you like my projects, Give them ⭐ and Share it with friends!💙 </h3>
 <h3>Stay awesome!⚡️</h3>
+
+<!------------------------------------------------------------ WATER ---------------------------------------------------------------------------------->
 
 <p align="center">
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Water" />
