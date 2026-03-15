@@ -4,24 +4,22 @@
 
 <!-- <p align="center">
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-</p> -->
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
-  <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Mono+One&size=25&duration=4000&pause=1000&color=08D9D6&center=true&vCenter=true&random=false&width=500&height=70&lines=Android+Developer;MERN+Stack+Developement;Deep+Learning;Competitive+Programming" alt="Typing SVG" /></a> -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Mono+One&size=25&duration=4000&pause=1000&color=08D9D6&center=true&vCenter=true&random=false&width=500&height=70&lines=Android+Developer;MERN+Stack+Developement;Deep+Learning;Competitive+Programming" alt="Typing SVG" /></a>
 </p>
 
-<br>
+<br> -->
 
 <!------------------------------------------------------------ SKILLS ---------------------------------------------------------------------------------->
 
-<h1>
-<img src="https://media.giphy.com/media/kDwMzy7iCHqLhvNj5D/giphy.gif" width="48">
-  Skills
+<!-- <h1>
+  <img src="https://media.giphy.com/media/kDwMzy7iCHqLhvNj5D/giphy.gif" width="48"> Skills
 </h1>
 
 <div>
-    <!--   <img src="" /> -->
   <div>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -62,11 +60,11 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
 </div>
 
-<br>
+<br> -->
 
 <!------------------------------------------------------------ GITHUB STATS ---------------------------------------------------------------------------------->
 
-<h1>
+<!-- <h1>
 <img src="https://media.giphy.com/media/I9vZ4cFaR4b2cq9G39/giphy.gif" width="48">
   Github Stats
 </h1>
@@ -74,17 +72,17 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ripalnakiya&layout=donut)](https://github.com/ripalnakiya/github-readme-stats)
 <a><img src="https://github-readme-stats.vercel.app/api?username=ripalnakiya&show_icons=true&hide=issues&rank_icon=github"> </a>
 
-<br>
+<br> -->
 
 <!------------------------------------------------------------ SUPPORT ---------------------------------------------------------------------------------->
 
-<h1>
+<!-- <h1>
   <img src="https://media.giphy.com/media/IgXrlyDjAZVJyEcP6f/giphy.gif" width="48">
   Support
 </h1>
 
 <h3>If you like my projects, Give them ⭐ and Share it with friends!💙 </h3>
-<h3>Stay awesome!⚡️</h3>
+<h3>Stay awesome!⚡️</h3> -->
 
 <!------------------------------------------------------------ WATER ---------------------------------------------------------------------------------->
 
